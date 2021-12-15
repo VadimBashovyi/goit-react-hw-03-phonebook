@@ -1,0 +1,14 @@
+.label {
+  display: block;
+  font-size: 18px;
+  text-align: left;
+  margin-bottom: 20px;
+  width: 100%;
+  margin-left: 20px;
+}
+
+.input {
+  display: block;
+  margin-top: 10px;
+  width: 90%;
+}

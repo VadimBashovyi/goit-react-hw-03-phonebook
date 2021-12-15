@@ -1,0 +1,30 @@
+.mainForm {
+  padding: 0 30px;
+}
+
+.label {
+  display: block;
+  font-size: 18px;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.input {
+  display: block;
+  margin-top: 10px;
+  width: 100%;
+}
+
+.button {
+  padding: 10px;
+  border: 1px solid rgb(87, 190, 134);
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.button:hover,
+.button:focus {
+  color: rgb(87, 190, 134);
+  border-color: rgb(87, 190, 134);
+  background-color: #188ce8;
+}

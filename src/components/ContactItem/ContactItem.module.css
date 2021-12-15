@@ -1,0 +1,18 @@
+.itemText {
+  margin-right: 20px;
+}
+
+.button {
+  padding: 10px;
+  border: 1px solid rgb(87, 190, 134);
+  border-radius: 10px;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.button:hover,
+.button:focus {
+  color: rgb(87, 190, 134);
+  border-color: rgb(87, 190, 134);
+  background-color: #188ce8;
+}
